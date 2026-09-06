@@ -1,0 +1,22 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"tropicraft:cocktail","components":{"tropicraft:cocktail":{"drink":"tropicraft:pina_colada"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tropicraft:light_gray_chair"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:warp_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tropicraft:bamboo_mug"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tropicraft:coconut_chunk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tropicraft:pineapple_cubes"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tropicraft:yellow_scuba_goggles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:green_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cyan_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"twilightforest:carminite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"twilightforest:borer_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwtrpdoors:cherry_whispering_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwtrpdoors:cherry_cottage_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mcwtrpdoors:print_whispering"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:crystal_display"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:glass_item_frame"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:item_frame"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

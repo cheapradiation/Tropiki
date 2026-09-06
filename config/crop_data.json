@@ -1,0 +1,38 @@
+[
+  {
+    "items": "farmersdelight:tomato_seeds",
+    "default_item": "pamhc2crops:tomatoseeditem"
+  },
+  {
+    "items": "farmersdelight:tomato",
+    "default_item": "pamhc2crops:tomatoitem"
+  },
+  {
+    "items": "farmersdelight:rope",
+    "default_item": "supplementaries:rope"
+  },
+  {
+    "items": "farmersdelight:rice",
+    "default_item": "pamhc2crops:riceitem"
+  },
+  {
+    "items": "supplementaries:flax_seeds",
+    "default_item": "pamhc2crops:flaxseeditem"
+  },
+  {
+    "items": "farmersdelight:cabbage_seeds",
+    "default_item": "pamhc2crops:cabbageseeditem"
+  },
+  {
+    "items": "farmersdelight:cabbage",
+    "default_item": "pamhc2crops:cabbageitem"
+  },
+  {
+    "items": "supplementaries:flax",
+    "default_item": "pamhc2crops:flaxitem"
+  },
+  {
+    "items": "farmersdelight:onion",
+    "default_item": "pamhc2crops:onionitem"
+  }
+]
