@@ -7,6 +7,12 @@ type = "VOICE"
 toggle = true
 
 [[key_bindings]]
+keys = []
+name = "key.plasmovoice.general.mute_microphone"
+any_context = false
+category = "key.plasmovoice.general"
+
+[[key_bindings]]
 name = "key.plasmovoice.proximity.toggle"
 any_context = false
 category = "hidden"

@@ -1,0 +1,9 @@
+{
+  "id" : "16fd5b0ea7a742a6b20352de6493c2b4",
+  "name" : "Sandriell",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODcyNDI2NTY3NSwKICAicHJvZmlsZUlkIiA6ICIxNmZkNWIwZWE3YTc0MmE2YjIwMzUyZGU2NDkzYzJiNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW5kcmllbGwiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWYxZjE0NWJkYWUxYjJjNzQwMGI1ZTk4YjVkZjU4ZGVhMTA5NmUwMzI0OWY2ZDY5MzYwODRhYzY2NmU2Y2MyMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

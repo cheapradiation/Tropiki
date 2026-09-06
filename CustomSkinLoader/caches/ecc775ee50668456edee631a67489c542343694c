@@ -1,0 +1,9 @@
+{
+  "id" : "e7b7aa178c934618af85e580fa98e202",
+  "name" : "Smile",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODU1Njg0NDI0NiwKICAicHJvZmlsZUlkIiA6ICJlN2I3YWExNzhjOTM0NjE4YWY4NWU1ODBmYTk4ZTIwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbWlsZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYWNkZTlmZGVmNTEyOTk4YjljMjNhOGNkMmFiZjI3ZjJkZDMzMjgxYzVlNzdkMGI1YzVkMTRmMDllODRlYTc2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

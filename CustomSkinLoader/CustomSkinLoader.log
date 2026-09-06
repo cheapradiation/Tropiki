@@ -1,0 +1,101 @@
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 15.0.1
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: F:\.minecraftx\instances\Tropiki1\CustomSkinLoader
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 11 (amd64) version 10.0
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.9, Oracle Corporation
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.1
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Config File: F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\CustomSkinLoader.json
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPIPlus
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: version : 15.0.1
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 40
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "ElyByAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : false
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-09-06 22:12:31] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: Loading uutru's profile.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 1/12 Try to load profile from 'LocalSkin'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 2/12 Try to load profile from 'GameProfile'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 3/12 Try to load profile from 'Mojang'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 4/12 Try to load profile from 'LittleSkin'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 5/12 Try to load profile from 'BlessingSkin'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 6/12 Try to load profile from 'ElyBy'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 7/12 Try to load profile from 'TLauncher'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 8/12 Try to load profile from 'GlitchlessGames'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 9/12 Try to load profile from 'MinecraftCapes'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 10/12 Try to load profile from 'OptiFine'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (LocalSkin)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 11/12 Try to load profile from 'CloakPlus'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: 12/12 Try to load profile from 'Cosmetica'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/uutru.png'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/uutru.png'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/uutru'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/uutru'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=uutru'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/uutru.json'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/uutru.json'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["uutru"]
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 110 , Path: 'F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\caches\7e9bc0096820aa11b658263e04975b9bb440f956' , Expire: 1788725641)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_uutru.png","metadata":{"model":"slim"}}}
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 502)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 71)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 500)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "43413646d25643408e4a06335d021169",
+  "name" : "Uutru"
+} ]
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=uutru&uuid=43413646-d256-4340-8e4a-06335d021169&nothirdparty'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Cosmetica)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 8227 , Path: 'F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\caches\b482d51966b9d1b303ea1dff786832bd41e97bc3' , Expire: 1789159970)
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/43413646d25643408e4a06335d021169'.
+[2026-09-06 22:12:31] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/43413646d25643408e4a06335d021169'.
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\caches\329c17586272a405ea5c2e6ca5eeec14dde6871c' , Expire: 0)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Try to load from cache 'F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\caches\329c17586272a405ea5c2e6ca5eeec14dde6871c'.
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 531)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 531 , Path: 'F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\caches\54ea38dabff952312161fdf71f127af6fa827920' , Expire: 1788725572)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "43413646d25643408e4a06335d021169",
+  "name" : "Uutru",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODcyNTU1Mjk5MSwKICAicHJvZmlsZUlkIiA6ICI0MzQxMzY0NmQyNTY0MzQwOGU0YTA2MzM1ZDAyMTE2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVdXRydSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDgwMjYzMDNkOGQzMmYxZjU4ODU1M2MyNGQ0ZmZiMjZlYTAzM2I0M2QxYWI0NTM1N2I0MjRiZGE5YjNjMWNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'F:\.minecraftx\instances\Tropiki1\CustomSkinLoader\caches\733c76e3a526cbb80ea4f68463d049f845ceb706' , Expire: 1788725647)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: uutru's profile loaded. (889ms)
+[2026-09-06 22:12:32] [uutru <d4648ded-beb8-3b82-a9ec-595bf827df1a>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/708026303d8d32f1f588553c24d4ffb26ea033b43d1ab45357b424bda9b3c1cb , Model: default , CapeUrl: null  , Expiry: 1788725582)

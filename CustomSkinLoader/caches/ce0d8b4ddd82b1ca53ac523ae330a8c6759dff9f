@@ -1,0 +1,9 @@
+{
+  "id" : "a2039b6c5a3d407db49c091405062b85",
+  "name" : "techbrew",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODcyNDI2NTYzMywKICAicHJvZmlsZUlkIiA6ICJhMjAzOWI2YzVhM2Q0MDdkYjQ5YzA5MTQwNTA2MmI4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0ZWNoYnJldyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jODc2MzE2NWY5OTIzMWM0Y2QyOGUwOWM0MmIxNThiZmIzMWQ3NTM3Njg0YmYzYThhNTFjM2EzNDRlNjFjYmY2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

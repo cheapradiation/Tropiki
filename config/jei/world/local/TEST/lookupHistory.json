@@ -1,0 +1,23 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"zens_upgraded_netherite:void_totem_of_undying"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:amberite_elytra"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:mini_black_hole"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:netherite_anvil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:netherite_elytra"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:amberite_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:sapphenite_elytra"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:netherite_stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:netherite_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:netherite_totem_of_undying"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:netherite_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:enchanted_netherite_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:singularite_helmet","components":{"minecraft:custom_data":{"zens_upgraded_netherite_divine":1},"minecraft:custom_name":"{\"color\":\"black\",\"italic\":false,\"text\":\"???\"}","minecraft:enchantment_glint_override":true,"minecraft:rarity":"zens_upgraded_netherite:divin"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:rune_abyssal_tier_1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:rune_abyssal_tier_2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:rune_abyssal_tier_3"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:rune_abyssal_tier_4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:rune_abyssal_tier_5"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:rune_ember_tier_1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"zens_upgraded_netherite:onyxerite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

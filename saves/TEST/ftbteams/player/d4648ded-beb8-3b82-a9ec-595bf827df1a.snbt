@@ -1,0 +1,19 @@
+{
+	id: "d4648ded-beb8-3b82-a9ec-595bf827df1a"
+	type: "player"
+	player_name: "uutru"
+	ranks: {
+		d4648ded-beb8-3b82-a9ec-595bf827df1a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "uutru"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59DD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

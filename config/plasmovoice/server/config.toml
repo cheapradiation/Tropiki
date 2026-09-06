@@ -82,10 +82,14 @@ y_offset = 0.0
 
 # Set custom weights for specific activations and source lines
 # Weight determines display order in client menu and overlay (lower = higher position)
-[voice.weights]
-
 #[voice.weights.activations]
 #groups = 0
 
 #[voice.weights.source_lines]
 #groups = 0
+
+[notifications]
+# Notify a player when their voice chat is muted ("You've been muted ..." message)
+muted = true
+# Notify a player when their voice chat is unmuted ("You've been unmuted" message)
+unmuted = true

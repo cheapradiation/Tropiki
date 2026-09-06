@@ -1,0 +1,9 @@
+{
+  "id" : "cb87d53e80a7456a804bbfe2e4b0ae81",
+  "name" : "Stantios",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODcyNDI2NTYxOSwKICAicHJvZmlsZUlkIiA6ICJjYjg3ZDUzZTgwYTc0NTZhODA0YmJmZTJlNGIwYWU4MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGFudGlvcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NjM4MTNlMWFhMjdkOTY5NTYyZjczOWRiN2ZjNTQ2NmYzNTE4MDRmZWVlZjNhY2YxNTVkMjE0NTQ2MzMyNTdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

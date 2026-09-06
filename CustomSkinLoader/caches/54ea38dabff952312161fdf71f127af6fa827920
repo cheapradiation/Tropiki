@@ -1,0 +1,9 @@
+{
+  "id" : "43413646d25643408e4a06335d021169",
+  "name" : "Uutru",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODcyNTU1Mjk5MSwKICAicHJvZmlsZUlkIiA6ICI0MzQxMzY0NmQyNTY0MzQwOGU0YTA2MzM1ZDAyMTE2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVdXRydSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDgwMjYzMDNkOGQzMmYxZjU4ODU1M2MyNGQ0ZmZiMjZlYTAzM2I0M2QxYWI0NTM1N2I0MjRiZGE5YjNjMWNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

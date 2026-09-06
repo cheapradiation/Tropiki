@@ -1,0 +1,9 @@
+{
+  "id" : "2414c36c9f8340a4b0b66b2a88db6479",
+  "name" : "MemeSapiens",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4ODcyNDI2NTc1NSwKICAicHJvZmlsZUlkIiA6ICIyNDE0YzM2YzlmODM0MGE0YjBiNjZiMmE4OGRiNjQ3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZW1lU2FwaWVucyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTlkMjE2MzRjOGY1YWIxOThmNTIxZDBjZDc5NzU1ZjViZTFiNjFmY2U1ZjRlNmRmNWY3OGIxYjM3NjI4NzBiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}
