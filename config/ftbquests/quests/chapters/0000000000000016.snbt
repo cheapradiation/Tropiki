@@ -1,0 +1,3529 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "0000000000000016"
+	group: ""
+	icon: {
+		id: "minecraft:diamond_pickaxe"
+	}
+	id: "0000000000000016"
+	images: [{
+		alpha: 220
+		height: 20.25d
+		id: "042DBC15F19A24AC"
+		image: "tropiki:textures/quests/backgrounds/end.png"
+		order: -100
+		rotation: 0.0d
+		width: 36.0d
+		x: -18.0d
+		y: -10.125d
+	}]
+	order_index: 21
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:red_sand"
+			}
+			id: "00000000000055F1"
+			rewards: [{
+				id: "70000000000055F1"
+				type: "xp"
+				xp: 72
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F1"
+				item: { count: 1, id: "minecraft:red_sand" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["00000000000055F1"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "00000000000055F2"
+			rewards: [{
+				id: "70000000000055F2"
+				type: "xp"
+				xp: 87
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F2"
+				item: { count: 1, id: "minecraft:shield" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["00000000000055F2"]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "00000000000055F3"
+			rewards: [{
+				id: "70000000000055F3"
+				type: "xp"
+				xp: 102
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F3"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["00000000000055F2"]
+			icon: {
+				id: "advancednetherite:netherite_diamond_ingot"
+			}
+			id: "00000000000055F4"
+			rewards: [{
+				id: "70000000000055F4"
+				type: "xp"
+				xp: 117
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F4"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_ingot" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00000000000055F2"]
+			icon: {
+				id: "aether:zanite_gemstone"
+			}
+			id: "00000000000055F5"
+			rewards: [{
+				id: "70000000000055F5"
+				type: "xp"
+				xp: 132
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F5"
+				item: { count: 1, id: "aether:zanite_gemstone" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["00000000000055F2"]
+			icon: {
+				id: "aether:gravitite_chestplate"
+			}
+			id: "00000000000055F6"
+			rewards: [{
+				id: "70000000000055F6"
+				type: "xp"
+				xp: 147
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F6"
+				item: { count: 1, id: "aether:gravitite_chestplate" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["00000000000055F2"]
+			icon: {
+				id: "aether:gravitite_pickaxe"
+			}
+			id: "00000000000055F7"
+			rewards: [{
+				id: "70000000000055F7"
+				type: "xp"
+				xp: 162
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F7"
+				item: { count: 1, id: "aether:gravitite_pickaxe" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["00000000000055F2"]
+			icon: {
+				id: "croptopia:coffee_beans"
+			}
+			id: "00000000000055F8"
+			rewards: [{
+				id: "70000000000055F8"
+				type: "xp"
+				xp: 177
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F8"
+				item: { count: 1, id: "croptopia:coffee_beans" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["00000000000055F3"]
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "00000000000055F9"
+			rewards: [{
+				id: "70000000000055F9"
+				type: "xp"
+				xp: 192
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055F9"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["00000000000055F4"]
+			icon: {
+				id: "farmersdelight:rice"
+			}
+			id: "00000000000055FA"
+			rewards: [{
+				id: "70000000000055FA"
+				type: "xp"
+				xp: 207
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055FA"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00000000000055F5"]
+			icon: {
+				id: "tropicraft:coconut"
+			}
+			id: "00000000000055FB"
+			rewards: [{
+				id: "70000000000055FB"
+				type: "xp"
+				xp: 222
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055FB"
+				item: { count: 1, id: "tropicraft:coconut" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["00000000000055F6"]
+			icon: {
+				id: "twilightforest:fiery_ingot"
+			}
+			id: "00000000000055FC"
+			rewards: [{
+				id: "70000000000055FC"
+				type: "xp"
+				xp: 237
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055FC"
+				item: { count: 1, id: "twilightforest:fiery_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["00000000000055F7"]
+			icon: {
+				id: "twilightforest:maze_wafer"
+			}
+			id: "00000000000055FD"
+			rewards: [{
+				id: "70000000000055FD"
+				type: "xp"
+				xp: 252
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055FD"
+				item: { count: 1, id: "twilightforest:maze_wafer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["00000000000055F8"]
+			icon: {
+				id: "zens_upgraded_netherite:enchanted_netherite_apple"
+			}
+			id: "00000000000055FE"
+			rewards: [{
+				id: "70000000000055FE"
+				type: "xp"
+				xp: 267
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055FE"
+				item: { count: 1, id: "zens_upgraded_netherite:enchanted_netherite_apple" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["00000000000055F9"]
+			icon: {
+				id: "zens_upgraded_netherite:netherite_pearl"
+			}
+			id: "00000000000055FF"
+			rewards: [{
+				id: "70000000000055FF"
+				type: "xp"
+				xp: 282
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "30000000000055FF"
+				item: { count: 1, id: "zens_upgraded_netherite:netherite_pearl" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["00000000000055FA"]
+			icon: {
+				id: "zens_upgraded_netherite:void_totem_of_undying"
+			}
+			id: "0000000000005600"
+			rewards: [{
+				id: "7000000000005600"
+				type: "xp"
+				xp: 297
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005600"
+				item: { count: 1, id: "zens_upgraded_netherite:void_totem_of_undying" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00000000000055FB"]
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "0000000000005601"
+			rewards: [{
+				id: "7000000000005601"
+				type: "xp"
+				xp: 312
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005601"
+				item: { count: 1, id: "minecraft:anvil" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["00000000000055FC"]
+			icon: {
+				id: "minecraft:blaze_rod"
+			}
+			id: "0000000000005602"
+			rewards: [{
+				id: "7000000000005602"
+				type: "xp"
+				xp: 327
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005602"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["00000000000055FD"]
+			icon: {
+				id: "minecraft:bucket"
+			}
+			id: "0000000000005603"
+			rewards: [{
+				id: "7000000000005603"
+				type: "xp"
+				xp: 342
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005603"
+				item: { count: 1, id: "minecraft:bucket" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["00000000000055FE"]
+			icon: {
+				id: "minecraft:cocoa_beans"
+			}
+			id: "0000000000005604"
+			rewards: [{
+				id: "7000000000005604"
+				type: "xp"
+				xp: 357
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005604"
+				item: { count: 1, id: "minecraft:cocoa_beans" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"00000000000055FF"
+				"0000000000005600"
+				"0000000000005601"
+				"0000000000005602"
+				"0000000000005603"
+				"0000000000005604"
+			]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "0000000000005605"
+			rewards: [{
+				id: "7000000000005605"
+				type: "xp"
+				xp: 372
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005605"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["0000000000005605"]
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "0000000000005606"
+			rewards: [{
+				id: "7000000000005606"
+				type: "xp"
+				xp: 387
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005606"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0000000000005605"]
+			icon: {
+				id: "minecraft:elytra"
+			}
+			id: "0000000000005607"
+			rewards: [{
+				id: "7000000000005607"
+				type: "xp"
+				xp: 402
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005607"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0000000000005607"]
+			icon: {
+				id: "minecraft:enchanted_golden_apple"
+			}
+			id: "0000000000005608"
+			rewards: [{
+				id: "7000000000005608"
+				type: "xp"
+				xp: 417
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				consume_items: false
+				id: "3000000000005608"
+				item: { count: 1, id: "minecraft:enchanted_golden_apple" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "0000000000005655"
+			optional: true
+			rewards: [{
+				id: "7000000000005655"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005655"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_helmet"
+			}
+			id: "0000000000005656"
+			optional: true
+			rewards: [{
+				id: "7000000000005656"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005656"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "0000000000005657"
+			optional: true
+			rewards: [{
+				id: "7000000000005657"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005657"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_leggings"
+			}
+			id: "0000000000005658"
+			optional: true
+			rewards: [{
+				id: "7000000000005658"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005658"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_pickaxe"
+			}
+			id: "0000000000005659"
+			optional: true
+			rewards: [{
+				id: "7000000000005659"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005659"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_scrap"
+			}
+			id: "000000000000565A"
+			optional: true
+			rewards: [{
+				id: "700000000000565A"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000565A"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "000000000000565B"
+			optional: true
+			rewards: [{
+				id: "700000000000565B"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000565B"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "000000000000565C"
+			optional: true
+			rewards: [{
+				id: "700000000000565C"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000565C"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "000000000000565D"
+			optional: true
+			rewards: [{
+				id: "700000000000565D"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000565D"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:quartz"
+			}
+			id: "000000000000565E"
+			optional: true
+			rewards: [{
+				id: "700000000000565E"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000565E"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:red_sand"
+			}
+			id: "000000000000565F"
+			optional: true
+			rewards: [{
+				id: "700000000000565F"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000565F"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:redstone"
+			}
+			id: "0000000000005660"
+			optional: true
+			rewards: [{
+				id: "7000000000005660"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005660"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -20.0d
+		}
+		{
+			icon: {
+				id: "minecraft:sand"
+			}
+			id: "0000000000005661"
+			optional: true
+			rewards: [{
+				id: "7000000000005661"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005661"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "0000000000005662"
+			optional: true
+			rewards: [{
+				id: "7000000000005662"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005662"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "minecraft:shulker_box"
+			}
+			id: "0000000000005663"
+			optional: true
+			rewards: [{
+				id: "7000000000005663"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005663"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "minecraft:smithing_table"
+			}
+			id: "0000000000005664"
+			optional: true
+			rewards: [{
+				id: "7000000000005664"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005664"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "0000000000005665"
+			optional: true
+			rewards: [{
+				id: "7000000000005665"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005665"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "minecraft:tropical_fish"
+			}
+			id: "0000000000005666"
+			optional: true
+			rewards: [{
+				id: "7000000000005666"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005666"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "advancednetherite:netherite_iron_ingot"
+			}
+			id: "0000000000005667"
+			optional: true
+			rewards: [{
+				id: "7000000000005667"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005667"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "advancednetherite:netherite_diamond_ingot"
+			}
+			id: "0000000000005668"
+			optional: true
+			rewards: [{
+				id: "7000000000005668"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005668"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "aether:ambrosium_shard"
+			}
+			id: "0000000000005669"
+			optional: true
+			rewards: [{
+				id: "7000000000005669"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005669"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "aether:golden_amber"
+			}
+			id: "000000000000566A"
+			optional: true
+			rewards: [{
+				id: "700000000000566A"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000566A"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "aether:zanite_gemstone"
+			}
+			id: "000000000000566B"
+			optional: true
+			rewards: [{
+				id: "700000000000566B"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000566B"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "aether:zanite_pickaxe"
+			}
+			id: "000000000000566C"
+			optional: true
+			rewards: [{
+				id: "700000000000566C"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000566C"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -17.8d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_helmet"
+			}
+			id: "000000000000566D"
+			optional: true
+			rewards: [{
+				id: "700000000000566D"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000566D"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_chestplate"
+			}
+			id: "000000000000566E"
+			optional: true
+			rewards: [{
+				id: "700000000000566E"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000566E"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_leggings"
+			}
+			id: "000000000000566F"
+			optional: true
+			rewards: [{
+				id: "700000000000566F"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000566F"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_boots"
+			}
+			id: "0000000000005670"
+			optional: true
+			rewards: [{
+				id: "7000000000005670"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005670"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_pickaxe"
+			}
+			id: "0000000000005671"
+			optional: true
+			rewards: [{
+				id: "7000000000005671"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005671"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_sword"
+			}
+			id: "0000000000005672"
+			optional: true
+			rewards: [{
+				id: "7000000000005672"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005672"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "croptopia:blueberry"
+			}
+			id: "0000000000005673"
+			optional: true
+			rewards: [{
+				id: "7000000000005673"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005673"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "croptopia:coffee_beans"
+			}
+			id: "0000000000005674"
+			optional: true
+			rewards: [{
+				id: "7000000000005674"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005674"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "croptopia:tomato"
+			}
+			id: "0000000000005675"
+			optional: true
+			rewards: [{
+				id: "7000000000005675"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005675"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "explorerscompass:explorerscompass"
+			}
+			id: "0000000000005676"
+			optional: true
+			rewards: [{
+				id: "7000000000005676"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005676"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "0000000000005677"
+			optional: true
+			rewards: [{
+				id: "7000000000005677"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005677"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "farmersdelight:cabbage"
+			}
+			id: "0000000000005678"
+			optional: true
+			rewards: [{
+				id: "7000000000005678"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005678"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -15.6d
+		}
+		{
+			icon: {
+				id: "farmersdelight:canvas"
+			}
+			id: "0000000000005679"
+			optional: true
+			rewards: [{
+				id: "7000000000005679"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005679"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "farmersdelight:rice"
+			}
+			id: "000000000000567A"
+			optional: true
+			rewards: [{
+				id: "700000000000567A"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000567A"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "farmersdelight:straw"
+			}
+			id: "000000000000567B"
+			optional: true
+			rewards: [{
+				id: "700000000000567B"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000567B"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "farmersdelight:tomato"
+			}
+			id: "000000000000567C"
+			optional: true
+			rewards: [{
+				id: "700000000000567C"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000567C"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "tropicraft:coconut"
+			}
+			id: "000000000000567D"
+			optional: true
+			rewards: [{
+				id: "700000000000567D"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000567D"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:experiment_115"
+			}
+			id: "000000000000567E"
+			optional: true
+			rewards: [{
+				id: "700000000000567E"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000567E"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:fiery_blood"
+			}
+			id: "000000000000567F"
+			optional: true
+			rewards: [{
+				id: "700000000000567F"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000567F"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:fiery_ingot"
+			}
+			id: "0000000000005680"
+			optional: true
+			rewards: [{
+				id: "7000000000005680"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005680"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:knightmetal_ingot"
+			}
+			id: "0000000000005681"
+			optional: true
+			rewards: [{
+				id: "7000000000005681"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005681"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:magic_beans"
+			}
+			id: "0000000000005682"
+			optional: true
+			rewards: [{
+				id: "7000000000005682"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005682"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:maze_wafer"
+			}
+			id: "0000000000005683"
+			optional: true
+			rewards: [{
+				id: "7000000000005683"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005683"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:steeleaf_ingot"
+			}
+			id: "0000000000005684"
+			optional: true
+			rewards: [{
+				id: "7000000000005684"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005684"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -13.4d
+		}
+		{
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "0000000000005685"
+			optional: true
+			rewards: [{
+				id: "7000000000005685"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005685"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:enchanted_netherite_apple"
+			}
+			id: "0000000000005686"
+			optional: true
+			rewards: [{
+				id: "7000000000005686"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005686"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_apple"
+			}
+			id: "0000000000005687"
+			optional: true
+			rewards: [{
+				id: "7000000000005687"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005687"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_elytra"
+			}
+			id: "0000000000005688"
+			optional: true
+			rewards: [{
+				id: "7000000000005688"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005688"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_pearl"
+			}
+			id: "0000000000005689"
+			optional: true
+			rewards: [{
+				id: "7000000000005689"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005689"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_shield"
+			}
+			id: "000000000000568A"
+			optional: true
+			rewards: [{
+				id: "700000000000568A"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000568A"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_totem_of_undying"
+			}
+			id: "000000000000568B"
+			optional: true
+			rewards: [{
+				id: "700000000000568B"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000568B"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:void_totem_of_undying"
+			}
+			id: "000000000000568C"
+			optional: true
+			rewards: [{
+				id: "700000000000568C"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000568C"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "minecraft:amethyst_shard"
+			}
+			id: "000000000000568D"
+			optional: true
+			rewards: [{
+				id: "700000000000568D"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000568D"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "minecraft:ancient_debris"
+			}
+			id: "000000000000568E"
+			optional: true
+			rewards: [{
+				id: "700000000000568E"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000568E"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "000000000000568F"
+			optional: true
+			rewards: [{
+				id: "700000000000568F"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000568F"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -11.2d
+		}
+		{
+			icon: {
+				id: "minecraft:beacon"
+			}
+			id: "0000000000005690"
+			optional: true
+			rewards: [{
+				id: "7000000000005690"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005690"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -11.2d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:missing_item": "minecraft:bed"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "0000000000005691"
+			optional: true
+			rewards: [{
+				id: "7000000000005691"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005691"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:blaze_rod"
+			}
+			id: "0000000000005692"
+			optional: true
+			rewards: [{
+				id: "7000000000005692"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005692"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:missing_item": "minecraft:boat"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "0000000000005693"
+			optional: true
+			rewards: [{
+				id: "7000000000005693"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005693"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:brewing_stand"
+			}
+			id: "0000000000005694"
+			optional: true
+			rewards: [{
+				id: "7000000000005694"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005694"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:bucket"
+			}
+			id: "0000000000005695"
+			optional: true
+			rewards: [{
+				id: "7000000000005695"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005695"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:campfire"
+			}
+			id: "0000000000005696"
+			optional: true
+			rewards: [{
+				id: "7000000000005696"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005696"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:chiseled_sandstone"
+			}
+			id: "0000000000005697"
+			optional: true
+			rewards: [{
+				id: "7000000000005697"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005697"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:cocoa_beans"
+			}
+			id: "0000000000005698"
+			optional: true
+			rewards: [{
+				id: "7000000000005698"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005698"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "0000000000005699"
+			optional: true
+			rewards: [{
+				id: "7000000000005699"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "3000000000005699"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:cookie"
+			}
+			id: "000000000000569A"
+			optional: true
+			rewards: [{
+				id: "700000000000569A"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000569A"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "000000000000569B"
+			optional: true
+			rewards: [{
+				id: "700000000000569B"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000569B"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:cut_sandstone"
+			}
+			id: "000000000000569C"
+			optional: true
+			rewards: [{
+				id: "700000000000569C"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000569C"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "minecraft:dead_bush"
+			}
+			id: "000000000000569D"
+			optional: true
+			rewards: [{
+				id: "700000000000569D"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000569D"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "000000000000569E"
+			optional: true
+			rewards: [{
+				id: "700000000000569E"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000569E"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "000000000000569F"
+			optional: true
+			rewards: [{
+				id: "700000000000569F"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "300000000000569F"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:dragon_breath"
+			}
+			id: "00000000000056A0"
+			optional: true
+			rewards: [{
+				id: "70000000000056A0"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A0"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:elytra"
+			}
+			id: "00000000000056A1"
+			optional: true
+			rewards: [{
+				id: "70000000000056A1"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A1"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "00000000000056A2"
+			optional: true
+			rewards: [{
+				id: "70000000000056A2"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A2"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "00000000000056A3"
+			optional: true
+			rewards: [{
+				id: "70000000000056A3"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A3"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:enchanted_golden_apple"
+			}
+			id: "00000000000056A4"
+			optional: true
+			rewards: [{
+				id: "70000000000056A4"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A4"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "00000000000056A5"
+			optional: true
+			rewards: [{
+				id: "70000000000056A5"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A5"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:end_crystal"
+			}
+			id: "00000000000056A6"
+			optional: true
+			rewards: [{
+				id: "70000000000056A6"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A6"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "00000000000056A7"
+			optional: true
+			rewards: [{
+				id: "70000000000056A7"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A7"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:ender_pearl"
+			}
+			id: "00000000000056A8"
+			optional: true
+			rewards: [{
+				id: "70000000000056A8"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A8"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -6.8d
+		}
+		{
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "00000000000056A9"
+			optional: true
+			rewards: [{
+				id: "70000000000056A9"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056A9"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:furnace"
+			}
+			id: "00000000000056AA"
+			optional: true
+			rewards: [{
+				id: "70000000000056AA"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056AA"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:ghast_tear"
+			}
+			id: "00000000000056AB"
+			optional: true
+			rewards: [{
+				id: "70000000000056AB"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056AB"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:glass_bottle"
+			}
+			id: "00000000000056AC"
+			optional: true
+			rewards: [{
+				id: "70000000000056AC"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056AC"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:glow_berries"
+			}
+			id: "00000000000056AD"
+			optional: true
+			rewards: [{
+				id: "70000000000056AD"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056AD"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "00000000000056AE"
+			optional: true
+			rewards: [{
+				id: "70000000000056AE"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056AE"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:golden_apple"
+			}
+			id: "00000000000056AF"
+			optional: true
+			rewards: [{
+				id: "70000000000056AF"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056AF"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:golden_carrot"
+			}
+			id: "00000000000056B0"
+			optional: true
+			rewards: [{
+				id: "70000000000056B0"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B0"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "00000000000056B1"
+			optional: true
+			rewards: [{
+				id: "70000000000056B1"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B1"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:lapis_lazuli"
+			}
+			id: "00000000000056B2"
+			optional: true
+			rewards: [{
+				id: "70000000000056B2"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B2"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:map"
+			}
+			id: "00000000000056B3"
+			optional: true
+			rewards: [{
+				id: "70000000000056B3"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B3"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:melon_slice"
+			}
+			id: "00000000000056B4"
+			optional: true
+			rewards: [{
+				id: "70000000000056B4"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B4"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -4.6d
+		}
+		{
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "00000000000056B5"
+			optional: true
+			rewards: [{
+				id: "70000000000056B5"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B5"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_boots"
+			}
+			id: "00000000000056B6"
+			optional: true
+			rewards: [{
+				id: "70000000000056B6"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B6"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "00000000000056B7"
+			optional: true
+			rewards: [{
+				id: "70000000000056B7"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B7"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_helmet"
+			}
+			id: "00000000000056B8"
+			optional: true
+			rewards: [{
+				id: "70000000000056B8"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B8"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "00000000000056B9"
+			optional: true
+			rewards: [{
+				id: "70000000000056B9"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056B9"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_leggings"
+			}
+			id: "00000000000056BA"
+			optional: true
+			rewards: [{
+				id: "70000000000056BA"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056BA"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_pickaxe"
+			}
+			id: "00000000000056BB"
+			optional: true
+			rewards: [{
+				id: "70000000000056BB"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056BB"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_scrap"
+			}
+			id: "00000000000056BC"
+			optional: true
+			rewards: [{
+				id: "70000000000056BC"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056BC"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "00000000000056BD"
+			optional: true
+			rewards: [{
+				id: "70000000000056BD"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056BD"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "00000000000056BE"
+			optional: true
+			rewards: [{
+				id: "70000000000056BE"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056BE"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "00000000000056BF"
+			optional: true
+			rewards: [{
+				id: "70000000000056BF"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056BF"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:quartz"
+			}
+			id: "00000000000056C0"
+			optional: true
+			rewards: [{
+				id: "70000000000056C0"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C0"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -2.4d
+		}
+		{
+			icon: {
+				id: "minecraft:red_sand"
+			}
+			id: "00000000000056C1"
+			optional: true
+			rewards: [{
+				id: "70000000000056C1"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C1"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:redstone"
+			}
+			id: "00000000000056C2"
+			optional: true
+			rewards: [{
+				id: "70000000000056C2"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C2"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:sand"
+			}
+			id: "00000000000056C3"
+			optional: true
+			rewards: [{
+				id: "70000000000056C3"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C3"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "00000000000056C4"
+			optional: true
+			rewards: [{
+				id: "70000000000056C4"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C4"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:shulker_box"
+			}
+			id: "00000000000056C5"
+			optional: true
+			rewards: [{
+				id: "70000000000056C5"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C5"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:smithing_table"
+			}
+			id: "00000000000056C6"
+			optional: true
+			rewards: [{
+				id: "70000000000056C6"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C6"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "00000000000056C7"
+			optional: true
+			rewards: [{
+				id: "70000000000056C7"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C7"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "minecraft:tropical_fish"
+			}
+			id: "00000000000056C8"
+			optional: true
+			rewards: [{
+				id: "70000000000056C8"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C8"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "advancednetherite:netherite_iron_ingot"
+			}
+			id: "00000000000056C9"
+			optional: true
+			rewards: [{
+				id: "70000000000056C9"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056C9"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "advancednetherite:netherite_diamond_ingot"
+			}
+			id: "00000000000056CA"
+			optional: true
+			rewards: [{
+				id: "70000000000056CA"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056CA"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "aether:ambrosium_shard"
+			}
+			id: "00000000000056CB"
+			optional: true
+			rewards: [{
+				id: "70000000000056CB"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056CB"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "aether:golden_amber"
+			}
+			id: "00000000000056CC"
+			optional: true
+			rewards: [{
+				id: "70000000000056CC"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056CC"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: -0.2d
+		}
+		{
+			icon: {
+				id: "aether:zanite_gemstone"
+			}
+			id: "00000000000056CD"
+			optional: true
+			rewards: [{
+				id: "70000000000056CD"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056CD"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:zanite_pickaxe"
+			}
+			id: "00000000000056CE"
+			optional: true
+			rewards: [{
+				id: "70000000000056CE"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056CE"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_helmet"
+			}
+			id: "00000000000056CF"
+			optional: true
+			rewards: [{
+				id: "70000000000056CF"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056CF"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_chestplate"
+			}
+			id: "00000000000056D0"
+			optional: true
+			rewards: [{
+				id: "70000000000056D0"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D0"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_leggings"
+			}
+			id: "00000000000056D1"
+			optional: true
+			rewards: [{
+				id: "70000000000056D1"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D1"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_boots"
+			}
+			id: "00000000000056D2"
+			optional: true
+			rewards: [{
+				id: "70000000000056D2"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D2"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_pickaxe"
+			}
+			id: "00000000000056D3"
+			optional: true
+			rewards: [{
+				id: "70000000000056D3"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D3"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "aether:gravitite_sword"
+			}
+			id: "00000000000056D4"
+			optional: true
+			rewards: [{
+				id: "70000000000056D4"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D4"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "croptopia:blueberry"
+			}
+			id: "00000000000056D5"
+			optional: true
+			rewards: [{
+				id: "70000000000056D5"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D5"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "croptopia:coffee_beans"
+			}
+			id: "00000000000056D6"
+			optional: true
+			rewards: [{
+				id: "70000000000056D6"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D6"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "croptopia:tomato"
+			}
+			id: "00000000000056D7"
+			optional: true
+			rewards: [{
+				id: "70000000000056D7"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D7"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "explorerscompass:explorerscompass"
+			}
+			id: "00000000000056D8"
+			optional: true
+			rewards: [{
+				id: "70000000000056D8"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D8"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "00000000000056D9"
+			optional: true
+			rewards: [{
+				id: "70000000000056D9"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056D9"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "farmersdelight:cabbage"
+			}
+			id: "00000000000056DA"
+			optional: true
+			rewards: [{
+				id: "70000000000056DA"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056DA"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "farmersdelight:canvas"
+			}
+			id: "00000000000056DB"
+			optional: true
+			rewards: [{
+				id: "70000000000056DB"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056DB"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "farmersdelight:rice"
+			}
+			id: "00000000000056DC"
+			optional: true
+			rewards: [{
+				id: "70000000000056DC"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056DC"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "farmersdelight:straw"
+			}
+			id: "00000000000056DD"
+			optional: true
+			rewards: [{
+				id: "70000000000056DD"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056DD"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "farmersdelight:tomato"
+			}
+			id: "00000000000056DE"
+			optional: true
+			rewards: [{
+				id: "70000000000056DE"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056DE"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "tropicraft:coconut"
+			}
+			id: "00000000000056DF"
+			optional: true
+			rewards: [{
+				id: "70000000000056DF"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056DF"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "twilightforest:experiment_115"
+			}
+			id: "00000000000056E0"
+			optional: true
+			rewards: [{
+				id: "70000000000056E0"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E0"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "twilightforest:fiery_blood"
+			}
+			id: "00000000000056E1"
+			optional: true
+			rewards: [{
+				id: "70000000000056E1"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E1"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "twilightforest:fiery_ingot"
+			}
+			id: "00000000000056E2"
+			optional: true
+			rewards: [{
+				id: "70000000000056E2"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E2"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "twilightforest:knightmetal_ingot"
+			}
+			id: "00000000000056E3"
+			optional: true
+			rewards: [{
+				id: "70000000000056E3"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E3"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "twilightforest:magic_beans"
+			}
+			id: "00000000000056E4"
+			optional: true
+			rewards: [{
+				id: "70000000000056E4"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E4"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: 4.2d
+		}
+		{
+			icon: {
+				id: "twilightforest:maze_wafer"
+			}
+			id: "00000000000056E5"
+			optional: true
+			rewards: [{
+				id: "70000000000056E5"
+				type: "xp"
+				xp: 10
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E5"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "twilightforest:steeleaf_ingot"
+			}
+			id: "00000000000056E6"
+			optional: true
+			rewards: [{
+				id: "70000000000056E6"
+				type: "xp"
+				xp: 13
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E6"
+				type: "checkmark"
+			}]
+			x: -13.1d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "00000000000056E7"
+			optional: true
+			rewards: [{
+				id: "70000000000056E7"
+				type: "xp"
+				xp: 16
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E7"
+				type: "checkmark"
+			}]
+			x: -10.2d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:enchanted_netherite_apple"
+			}
+			id: "00000000000056E8"
+			optional: true
+			rewards: [{
+				id: "70000000000056E8"
+				type: "xp"
+				xp: 19
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E8"
+				type: "checkmark"
+			}]
+			x: -7.3d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_apple"
+			}
+			id: "00000000000056E9"
+			optional: true
+			rewards: [{
+				id: "70000000000056E9"
+				type: "xp"
+				xp: 22
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056E9"
+				type: "checkmark"
+			}]
+			x: -4.4d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_elytra"
+			}
+			id: "00000000000056EA"
+			optional: true
+			rewards: [{
+				id: "70000000000056EA"
+				type: "xp"
+				xp: 25
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056EA"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_pearl"
+			}
+			id: "00000000000056EB"
+			optional: true
+			rewards: [{
+				id: "70000000000056EB"
+				type: "xp"
+				xp: 28
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056EB"
+				type: "checkmark"
+			}]
+			x: 1.4d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_shield"
+			}
+			id: "00000000000056EC"
+			optional: true
+			rewards: [{
+				id: "70000000000056EC"
+				type: "xp"
+				xp: 31
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056EC"
+				type: "checkmark"
+			}]
+			x: 4.3d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:netherite_totem_of_undying"
+			}
+			id: "00000000000056ED"
+			optional: true
+			rewards: [{
+				id: "70000000000056ED"
+				type: "xp"
+				xp: 34
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056ED"
+				type: "checkmark"
+			}]
+			x: 7.2d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "zens_upgraded_netherite:void_totem_of_undying"
+			}
+			id: "00000000000056EE"
+			optional: true
+			rewards: [{
+				id: "70000000000056EE"
+				type: "xp"
+				xp: 37
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056EE"
+				type: "checkmark"
+			}]
+			x: 10.1d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "minecraft:amethyst_shard"
+			}
+			id: "00000000000056EF"
+			optional: true
+			rewards: [{
+				id: "70000000000056EF"
+				type: "xp"
+				xp: 40
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056EF"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: 6.4d
+		}
+		{
+			icon: {
+				id: "minecraft:ancient_debris"
+			}
+			id: "00000000000056F0"
+			optional: true
+			rewards: [{
+				id: "70000000000056F0"
+				type: "xp"
+				xp: 43
+			}]
+			size: 0.8d
+			tasks: [{
+				id: "30000000000056F0"
+				type: "checkmark"
+			}]
+			x: 15.9d
+			y: 6.4d
+		}
+	]
+}

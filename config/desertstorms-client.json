@@ -1,0 +1,22 @@
+{
+  "preset": "MEDIUM",
+  "stormClouds": true,
+  "fog": true,
+  "vignette": true,
+  "worldDarkness": true,
+  "darknessIntensity": 0.82,
+  "cinematicCloudShader": false,
+  "renderDistanceChunks": 10,
+  "cloudDensity": 0.62,
+  "particleDensity": 0.75,
+  "debris": true,
+  "debrisDensity": 0.62,
+  "lightningFlash": true,
+  "lightningShake": true,
+  "shakeIntensity": 0.82,
+  "stormSounds": true,
+  "soundVolume": 0.95,
+  "fadeInSeconds": 10,
+  "fadeOutSeconds": 8,
+  "coordinateInterference": true
+}

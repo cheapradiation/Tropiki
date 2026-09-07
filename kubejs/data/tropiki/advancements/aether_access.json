@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "aether:holystone"
+    },
+    "title": {
+      "text": "The Aether Beckons"
+    },
+    "description": {
+      "text": "Enter the Aether."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "enter": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "aether:the_aether"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

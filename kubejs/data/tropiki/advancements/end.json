@@ -1,0 +1,5 @@
+{
+  "parent":"tropiki:overworld",
+  "display":{"icon":{"id":"minecraft:ender_eye"},"title":{"text":"Край"},"description":{"text":"Войти в Край."},"frame":"goal","show_toast":true,"announce_to_chat":false,"hidden":false},
+  "criteria":{"entered_end":{"trigger":"minecraft:location","conditions":{"player":{"location":{"dimension":"minecraft:the_end"}}}}}
+}

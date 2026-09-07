@@ -1,0 +1,205 @@
+[General]
+	enableStorms = true
+	enableStormSounds = true
+	enableWindEffects = true
+	enableItemWind = true
+	enableMobWind = true
+	enableProjectileWind = true
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	itemWindMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	mobWindMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	projectileWindMultiplier = 1.0
+	enableStormDamage = true
+	enableLightning = true
+	enableShelterSystem = true
+	enableArmorProtection = true
+	enableCreateIntegration = true
+	enableAutoTrigger = true
+	# Default: 30
+	# Range: 5 ~ 180
+	autoTriggerIntervalMinutes = 30
+	# Default: 5
+	# Range: 1 ~ 5
+	maxStormPhase = 5
+	# Default: 3
+	# Range: 1 ~ 5
+	rainTriggerPhase = 3
+	useSkylightSystem = true
+	# Default: 63
+	# Range: 0 ~ 320
+	oldLogicHeight = 63
+	ignoreArmorForWind = true
+	ignoreArmorForEffects = true
+	enableGlassBreaking = true
+	enablePreStormWarning = true
+	# Default: 45
+	# Range: 10 ~ 180
+	preStormWarningSeconds = 45
+	enableMobShelterAI = true
+	enableAIVisibilityReduction = true
+	enableSandAccumulation = true
+	# Default: 100
+	# Range: 20 ~ 1200
+	sandAccumulationIntervalTicks = 100
+	# Default: 6
+	# Range: 0 ~ 32
+	sandAccumulationPerChunk = 6
+
+["Phase 1"]
+	# Default: 0.1
+	# Range: 0.0 ~ 2.0
+	windStrength = 0.1
+	# Default: 0
+	# Range: 0 ~ 20
+	playerDamage = 0
+	# Default: 0
+	# Range: 0 ~ 10
+	armorDamage = 0
+	# Default: 600
+	# Range: 20 ~ 1200
+	playerDamageInterval = 600
+	# Default: 600
+	# Range: 20 ~ 1200
+	armorDamageInterval = 600
+	fatigue = false
+	hunger = false
+	blindness = false
+	slowness = false
+	weakness = false
+	# Default: 18000
+	# Range: 1200 ~ 72000
+	minDuration = 18000
+	# Default: 30000
+	# Range: 1200 ~ 72000
+	maxDuration = 30000
+
+["Phase 2"]
+	# Default: 0.2
+	# Range: 0.0 ~ 2.0
+	windStrength = 0.2
+	# Default: 1
+	# Range: 0 ~ 20
+	playerDamage = 1
+	# Default: 1
+	# Range: 0 ~ 10
+	armorDamage = 1
+	# Default: 300
+	# Range: 20 ~ 1200
+	playerDamageInterval = 300
+	# Default: 300
+	# Range: 20 ~ 1200
+	armorDamageInterval = 300
+	fatigue = false
+	hunger = false
+	blindness = false
+	slowness = false
+	weakness = false
+	# Default: 24000
+	# Range: 1200 ~ 72000
+	minDuration = 24000
+	# Default: 48000
+	# Range: 1200 ~ 72000
+	maxDuration = 48000
+
+["Phase 3"]
+	# Default: 0.3
+	# Range: 0.0 ~ 2.0
+	windStrength = 0.3
+	# Default: 1
+	# Range: 0 ~ 20
+	playerDamage = 1
+	# Default: 1
+	# Range: 0 ~ 10
+	armorDamage = 1
+	# Default: 200
+	# Range: 20 ~ 1200
+	playerDamageInterval = 200
+	# Default: 200
+	# Range: 20 ~ 1200
+	armorDamageInterval = 200
+	fatigue = true
+	hunger = false
+	blindness = false
+	slowness = true
+	weakness = false
+	# Default: 12000
+	# Range: 1200 ~ 72000
+	minDuration = 12000
+	# Default: 30000
+	# Range: 1200 ~ 72000
+	maxDuration = 30000
+
+["Phase 4"]
+	# Default: 0.4
+	# Range: 0.0 ~ 2.0
+	windStrength = 0.4
+	# Default: 2
+	# Range: 0 ~ 20
+	playerDamage = 2
+	# Default: 2
+	# Range: 0 ~ 10
+	armorDamage = 2
+	# Default: 120
+	# Range: 20 ~ 1200
+	playerDamageInterval = 120
+	# Default: 120
+	# Range: 20 ~ 1200
+	armorDamageInterval = 120
+	fatigue = true
+	hunger = true
+	blindness = true
+	slowness = true
+	weakness = false
+	# Default: 24000
+	# Range: 1200 ~ 72000
+	minDuration = 24000
+	# Default: 54000
+	# Range: 1200 ~ 72000
+	maxDuration = 54000
+
+["Phase 5"]
+	# Default: 0.5
+	# Range: 0.0 ~ 2.0
+	windStrength = 0.5
+	# Default: 4
+	# Range: 0 ~ 20
+	playerDamage = 4
+	# Default: 4
+	# Range: 0 ~ 10
+	armorDamage = 4
+	# Default: 80
+	# Range: 20 ~ 1200
+	playerDamageInterval = 80
+	# Default: 80
+	# Range: 20 ~ 1200
+	armorDamageInterval = 80
+	fatigue = true
+	hunger = true
+	blindness = true
+	slowness = true
+	weakness = true
+	# Default: 54000
+	# Range: 1200 ~ 72000
+	minDuration = 54000
+	# Default: 162000
+	# Range: 1200 ~ 216000
+	maxDuration = 162000
+
+["Air Consumption"]
+	# Default: 5
+	# Range: 0 ~ 50
+	phase2AirConsumption = 5
+	# Default: 8
+	# Range: 0 ~ 50
+	phase3AirConsumption = 8
+	# Default: 12
+	# Range: 0 ~ 50
+	phase4AirConsumption = 12
+	# Default: 15
+	# Range: 0 ~ 50
+	phase5AirConsumption = 15

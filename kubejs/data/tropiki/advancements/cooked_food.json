@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:cooked_beef"
+    },
+    "title": {
+      "text": "Learn to Cook"
+    },
+    "description": {
+      "text": "Obtain cooked beef."
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "food": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cooked_beef"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "food"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,5 @@
+{
+  "parent":"tropiki:overworld",
+  "display":{"icon":{"id":"minecraft:jungle_leaf"},"title":{"text":"Тропики"},"description":{"text":"Добраться до мира Tropicraft."},"frame":"task","show_toast":true,"announce_to_chat":false,"hidden":false},
+  "criteria":{"entered_tropicraft":{"trigger":"minecraft:location","conditions":{"player":{"location":{"dimension":"tropicraft:tropicraft"}}}}}
+}

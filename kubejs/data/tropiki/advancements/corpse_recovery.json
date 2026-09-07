@@ -1,0 +1,22 @@
+{
+  "display": {
+    "title": {
+      "text": "Где мои вещи?"
+    },
+    "description": {
+      "text": "Найди свой труп и верни снаряжение."
+    },
+    "icon": {
+      "id": "minecraft:rotten_flesh"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

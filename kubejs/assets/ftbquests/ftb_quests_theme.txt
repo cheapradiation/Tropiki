@@ -1,0 +1,6 @@
+[*]
+background: color:#071116
+dependency_line_thickness: 1.5
+
+[boss_quest]
+dependency_line_thickness: 2.0

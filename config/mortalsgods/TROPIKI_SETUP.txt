@@ -1,0 +1,7 @@
+Tropiki Mortals & Gods setup
+
+The 1.1.1 release reads the editable pantheon from config/mortalsgods/pantheon.json and supports custom lore in lore.txt. This package intentionally supplies lore and integration notes without replacing the generated pantheon schema blindly.
+
+Use /mortalsgods altar check to verify a Sanctum and /mortalsgods reload after editing the generated pantheon.
+
+Recommended Tropiki design: a knowledge/death/desert themed pantheon tied to the Egyptian-style final storyline.

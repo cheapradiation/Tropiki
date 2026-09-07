@@ -2453,12 +2453,6 @@
     },
     "done": true
   },
-  "supplementaries:recipe/cannonball": {
-    "criteria": {
-      "has_the_recipe": "2026-09-06 02:43:25 +0200"
-    },
-    "done": true
-  },
   "quark:recipes/misc/tweaks/crafting/utility/coral/fire_to_red": {
     "criteria": {
       "has_the_recipe": "2026-09-06 02:43:25 +0200"
@@ -38546,6 +38540,3342 @@
   "quark:recipes/misc/building/crafting/panes/dye/light_blue_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2026-09-06 17:05:16 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/diamond_epsilon_axe_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-07 00:27:57 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/diamond_mace_axe_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-07 00:27:57 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/diamond_sickle_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-07 00:27:57 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/diamond_khopesh_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-07 00:27:57 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lime_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/bandit_armor_trim_smithing_template": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_brick_wall_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_brick_wall_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe_6": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe_5": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/food/cooked_dead_silk_worm_from_campfire_smoking": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/iron_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sandstone_bricks_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_falling_trap_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/large_dead_bush_to_sticks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_papyrus_carpet_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_horse_armor": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_chest_raft_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_shovel_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/fragmenter": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_pickaxe_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_fence": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_brick_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cooked_dead_silk_worm_from_smelting_dead_silk_worm": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/eye_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe_5": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe_6": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/netherite_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_door": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/raw_lead_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_dead_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_block_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_fence": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_brick_wall_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_chain_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/alchemy_table_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_raft_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_carpet_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/silk_carpet": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_door": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_button": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cutlead_stairs_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cutlead_stairs_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_shovel_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/netherite_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_brick_slab_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_grate_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_grate_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_joshua_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/iron_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/stripped_palm_wood": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_hanging_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/food/cooked_dead_silk_worm_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_sword_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_hoe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/wooden_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stone_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_rope_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/sand_layer": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/devil_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_devil_dust_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mandible_bone_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/netherite_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/ankh_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/sticky_dirt": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_right_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_cocoa_palm_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_left_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_brick_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/rocky_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cutlead_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cutlead_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_brick_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/ch_red_sandstone_bricks_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_hanging_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_torch_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_mesquite_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_papyrus_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_papyrus_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_papyrus_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/coconut_open": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_button": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_papyrus_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_right_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_dessert_willow_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/sandstone_brick_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/ch_sandstone_bricks_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_armor_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_armor_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_armor_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_armor_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_brick_stairs_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/tortoise_shell_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_dried_carpet_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/iron_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_pillar_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_brick_wall_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coarse_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/rose_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_palo_verde_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_bricks_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cracked_sandstone_bricks_from_smelting_sandstone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_brick_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_log_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_fan_plam_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_dragon_blood_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_from_smelting_raw_amber": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_brick_wall_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/reg_red_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/golden_prickly_pear_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/magenta_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_papyrus_rope_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/orb_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_fatigue_trap_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_fan_palm_leaves_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_quick_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_brick_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/silk_string": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/raw_leadblock_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/sandstone_brick_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/willow_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/copper_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_right_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_right_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_right_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_right_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/willow_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_boojum_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/purple_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_fibers_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/muddy_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/sandstone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_pillar_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/whip_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_15": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_14": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/ch_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_13": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_12": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_16": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_11": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_10": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/antlion_sword_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cactus_green_dye_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_brick_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "gildedsands:recipes/condensed_bread_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/wooden_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_red_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/golden_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/pyramid_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_6": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_7": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe_5": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_hot_poker_dye_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_from_blasting_deepslate_amber_ore": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/hard_red_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_helmet_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_boots_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_wood": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_dried_papyrus_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_dried_papyrus_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_dried_papyrus_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cut_woven_dried_papyrus_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_brick_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/raw_lead_block_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/hard_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/scarab_beetle_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/glass_shard": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_sandstone_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coarse_red_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_5": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_7": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/p_red_sandstone_recipe_6": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/netherite_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cocoa_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sandstone_brick_wall_from_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/wooden_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/chiseled_lead_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/chiseled_lead_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/chiseled_lead_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/bandit": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_axe_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cocoa_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/rocky_red_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_from_smelting_amber_ore": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_coco_palm_leaves_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_sword_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/muddy_wall_from_mud_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cutlead_slab_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cutlead_slab_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/spikes_trap_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_ingot_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_ingot_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_ingot_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_ingot_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_ingot_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/copper_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stone_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_brick_stairs_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/pink_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/golden_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannonball_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_bars_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/white_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_fatigue_trap_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_left_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_bricks_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_brick_wall_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_upgrade_smithing_template": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_brick_slab_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/scarab_beetle_orb_banner_pattern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/copper_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/devil_dust_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_from_blasting_amber_ore": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_dead_wood_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_hoe_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_papyrus_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_papyrus_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_papyrus_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_papyrus_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:repair_explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sandstone_brick_stairs_from_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_left_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_left_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_eye_left_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cracked_red_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/copper_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_wood": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_pickaxe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/sandstone_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_10": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_11": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_14": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_15": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_12": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_13": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_16": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_staff": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/other_lead_block_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/yellow_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_leggings_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_door": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/amber_chestplate_smithing": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_brick_stairs_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sifter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_button": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/beetle_jerky_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_lantern_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/golden_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_sapling_resipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_bricks_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_block": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_dried_papyrus_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sandstone_brick_slab_from_sandstone_bricks_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_dried_papyrus_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_dried_papyrus_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/woven_dried_papyrus_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_bulb_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_rose_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_6": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_5": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_9": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_8": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/jasper_recipe_7": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_paper_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/blue_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/golden_mace_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/muddy_stairs_from_mud_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/willow_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_8": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_7": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cactus_arrow_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_9": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_6": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/turquoise_recipe_5": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/other_raw_leadblock_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stone_epsilon_axe_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/ch_red_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:repair_natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/muddy_slab_from_mud_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/orange_dye_recipes": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/lead_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_dead_wood_log_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_door_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_pillar_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/muddy_stairs": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sandstone_brick_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_brick_slab_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cocoa_palm_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/salt_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_right_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_right_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_right_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_right_recipe_4": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_brick_stairs_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_left_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_left_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_eye_left_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/muddy_wall": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/rose_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_falling_trap_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/baobab_boat": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_papyrus_fibers_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_papyrus_fibers_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_papyrus_fibers_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_sandstone_brick_wall_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cocoa_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/wooden_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_from_smelting_deepslate_amber_ore": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dried_mud_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_hanging_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/other_lead_block_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boojum_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_planks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/ocotillo_dye_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/other_raw_leadblock_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stone_khopesh_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cracked_sandstone_bricks_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/w_red_sandstone_bricks_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/mesquite_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/iron_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/stripped_desert_rose_wood_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_button_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boulder_recipe_3": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boulder_recipe_0": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boulder_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/boulder_recipe_2": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_pillar_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cactus_spike_ball_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/palm_fence": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_hanging_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/antlion_sickle_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_fence_gate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/sand_thrower_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cactus_spike_ball_recipe_1": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/cactus_sign": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/saguaro_pressure_plate_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/red_sandstone_brick_wall_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_palm_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/papyrus_carpet_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/quick_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/fan_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/palo_verde_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/wred_sandstone_brick_slab_cutter_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/amber_from_blasting_raw_amber": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desert_update:recipes/misc/silk": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dragon_blood_chest_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_stairs_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/dead_wood_sign_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/cocoa_boat_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/desert_willow_trapdoor_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/joshua_slab_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/coco_palm_fence_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
+    },
+    "done": true
+  },
+  "desertsanddunes:recipes/reg_sand_recipe": {
+    "criteria": {
+      "has_the_recipe": "2026-09-07 00:27:58 +0200"
     },
     "done": true
   },

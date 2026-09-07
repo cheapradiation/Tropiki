@@ -1,0 +1,27 @@
+#If the HUD should be hidden
+hide_hud = false
+#If waypoint names should be rendered on the HUD
+render_waypoint_names = true
+#If cardinal directions should be rendered on the HUD
+render_cardinal_directions = true
+#If an indicator should be rendered at the center of the HUD
+render_center_indicator = true
+#The FOV of the HUD
+# Default: 180.0
+# Range: 12.5 ~ 360.0
+hud_fov = 220.0
+#The width of the HUD
+# Default: 0.5
+# Range: 0.1 ~ 1.0
+hud_width = 1.0
+#The scale of the HUD
+# Default: 1.0
+# Range: 0.1 ~ 10.0
+hud_scale = 0.5
+#The color of the waypoint lines (ARGB packed as integer)
+# Default: -1
+# Range: > -2147483648
+line_color = 1
+#The order in which waypoints are sorted in the waypoints screen
+#Allowed Values: CREATION_ASC, CREATION_DESC, NAME_ASC, NAME_DESC, DISTANCE_ASC, DISTANCE_DESC
+waypoint_sort_order = "DISTANCE_ASC"
